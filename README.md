@@ -1,2 +1,2 @@
-# JSX-CHALLENEGES
+# JSX-Challenges
 Created with CodeSandbox
